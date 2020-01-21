@@ -14,7 +14,7 @@ Presentations:
 - [Call For Proposals 101](https://speakerdeck.com/galuhsahid/call-for-proposals-101) by [Galuh Sahid](https://twitter.com/galuhsahid)
 - [Preparing your first tech talk](https://onedrive.live.com/redir?resid=BA7EEC517E94914F!109634&authkey=!AFGS6Io4jYxrMBM&ithint=file%2cpptx&e=ZaBvGS) by [Eriawan K](https://twitter.com/erikuma)
 - [Effective presentations](https://docs.google.com/presentation/d/1-V7Ip9Wb1Rnrgj6_AUrHqR1tpYPGgynhtvUuclW737Q/edit?usp=sharing) by [Prabu Rangki](https://twitter.com/praburangki)
-- [Accessible talk](https://accessible-talk-slide.netlify.com/)by [Adrianti Rusli](https://twitter.com/adriantirusli)
+- [Accessible talk](https://accessible-talk-slide.netlify.com/) by [Adrianti Rusli](https://twitter.com/adriantirusli)
 - [Preparing your technical demo](https://docs.google.com/presentation/d/1XXTwU33ZmiLk90C8TTwlHtq3s2ytSME-Su1OYzM36dI/edit#slide=id.p6) by [Imre Nagi](https://twitter.com/imrenagi)
 
 Indonesian Tech Communities:
