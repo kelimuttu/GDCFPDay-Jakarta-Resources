@@ -36,5 +36,8 @@ Indonesian Tech Communities:
 - [Lambda Indonesia](https://www.meetup.com/lambda-indonesia/)
 - [FemaleGeek](https://www.meetup.com/FemaleGeek/)
 
-Indonesian Tech Conferences : 
+Tech Conferences in Indonesia: 
 **TBD**
+
+International Tech Conferences: 
+Please refer to [this page](https://www.globaldiversitycfpday.com/cfps).
