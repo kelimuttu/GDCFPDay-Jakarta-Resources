@@ -35,6 +35,7 @@ Indonesian Tech Communities:
 - [Cloud Native Indonesia](https://github.com/cloudnative-id/meetups)
 - [Lambda Indonesia](https://www.meetup.com/lambda-indonesia/)
 - [FemaleGeek](https://www.meetup.com/FemaleGeek/)
+- [Flutter Jakarta](https://www.meetup.com/Flutter-Jakarta/)
 
 Tech Conferences in Indonesia: 
 **TBD**
