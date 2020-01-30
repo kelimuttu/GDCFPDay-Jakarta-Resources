@@ -36,6 +36,7 @@ Indonesian Tech Communities:
 - [Lambda Indonesia](https://www.meetup.com/lambda-indonesia/)
 - [FemaleGeek](https://www.meetup.com/FemaleGeek/)
 - [Flutter Jakarta](https://www.meetup.com/Flutter-Jakarta/)
+- [Android Developer Bandung](https://github.com/AndroidDeveloperBandung/meetup-cantik)
 
 Tech Conferences in Indonesia: 
 **TBD**
