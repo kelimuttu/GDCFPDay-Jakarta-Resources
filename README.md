@@ -36,8 +36,12 @@ Indonesian Tech Communities:
 - [Lambda Indonesia](https://www.meetup.com/lambda-indonesia/)
 - [FemaleGeek](https://www.meetup.com/FemaleGeek/)
 
-Tech Conferences in Indonesia: 
-**TBD**
+Tech Conferences around APAC: 
+| Conference name | Place | Date | CFP Deadline |
+| ------------- |:-------------:| -----:| -----:|
+| [PyCon APAC](https://pycon.my/2020/02/24/call-for-paper-pycon-apac-wants-you/) | Kota Kinabalu | 19th-20th September 2020 | 30th April 2020 |
+| TBD | TBD | TBD | TBD |
+
 
 International Tech Conferences: 
 Please refer to [this page](https://www.globaldiversitycfpday.com/cfps).
